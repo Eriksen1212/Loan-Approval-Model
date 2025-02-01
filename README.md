@@ -1,4 +1,4 @@
-#Loan Approval & Delinquency Prediction Model
+Loan Approval & Delinquency Prediction Model
 
 Overview:
 Developed a predictive model that evaluates a user's financial information to determine whether a loan should be approved or rejected and estimates the probability of delinquency. The model aims to reduce credit risk and assist financial institutions in making informed lending decisions.
